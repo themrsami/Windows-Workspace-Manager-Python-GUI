@@ -1,0 +1,6 @@
+pywin32
+psutil
+PyQt6
+PyQt6-Qt6
+PyQt6-sip
+python-dateutil
