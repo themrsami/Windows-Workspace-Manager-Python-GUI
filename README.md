@@ -2,6 +2,12 @@
 
 A powerful Python-based workspace management tool that helps you save, restore, and manage your window configurations across sessions.
 
+
+
+https://github.com/user-attachments/assets/b361d049-2c42-4fad-956d-17187926334f
+
+
+
 ## Table of Contents
 - [Workspace Manager](#workspace-manager)
   - [Table of Contents](#table-of-contents)
