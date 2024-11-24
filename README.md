@@ -3,22 +3,24 @@
 A powerful Python-based workspace management tool that helps you save, restore, and manage your window configurations across sessions.
 
 ## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Getting Started](#getting-started)
-  - [Main Interface](#main-interface)
-  - [Saving Workspaces](#saving-workspaces)
-  - [Restoring Workspaces](#restoring-workspaces)
-  - [Managing Workspaces](#managing-workspaces)
-  - [Filtering and Search](#filtering-and-search)
-  - [System Tray Integration](#system-tray-integration)
-  - [Process Management](#process-management)
-- [Configuration](#configuration)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
+- [Workspace Manager](#workspace-manager)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Features](#features)
+  - [Requirements](#requirements)
+  - [Installation](#installation)
+  - [Usage](#usage)
+    - [Getting Started](#getting-started)
+    - [Main Interface](#main-interface)
+    - [Saving Workspaces](#saving-workspaces)
+    - [Restoring Workspaces](#restoring-workspaces)
+    - [Managing Workspaces](#managing-workspaces)
+    - [Filtering and Search](#filtering-and-search)
+    - [System Tray Integration](#system-tray-integration)
+    - [Process Management](#process-management)
+  - [Configuration](#configuration)
+  - [Troubleshooting](#troubleshooting)
+  - [Contributing](#contributing)
 
 ## Overview
 
@@ -68,7 +70,7 @@ Workspace Manager is a desktop application that automatically tracks and restore
 
 1. Clone or download the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/themrsami/Windows-Workspace-Manager-Python-GUI
    cd workspace-manager
    ```
 
